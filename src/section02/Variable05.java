@@ -17,7 +17,7 @@ import java.math.BigDecimal;
  *  	컴퓨터가 정확한 실수표현 불가능 근사치 값 표현으로 인해 생긴 오차   
  */
 
-public class Variabe05 {
+public class Variable05 {
 	public static void main(String[] args) {
 		float f = 0.0f;
 		double d = 0.0;
